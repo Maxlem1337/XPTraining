@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01 - Demo 1 - Delayed" />
+            <option value="$PROJECT_DIR$/02 - Lab 1 - SpaceBook" />
+            <option value="$PROJECT_DIR$/03 - Lab 2 - Bugfix Dracula" />
+            <option value="$PROJECT_DIR$/04 - Demo 2 - Greeting" />
+            <option value="$PROJECT_DIR$/05 - Lab 3 - PetShop" />
+            <option value="$PROJECT_DIR$/06 - Lab 4 - Flight" />
+            <option value="$PROJECT_DIR$/07 - Demo 3 - Refactoring" />
+            <option value="$PROJECT_DIR$/08 - Lab 5 - MovieRental" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
